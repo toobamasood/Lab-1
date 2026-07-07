@@ -10,5 +10,6 @@ int main()
 	cout<<"The floating point value="<<num2<<endl;
 	cout<<"The Character type value="<<ch1<<endl;
 	cout<<"The character type value2="<<ch2;
+	cout<<"TOOBA";
 	return 0;
 }
